@@ -28,6 +28,7 @@ ORDER BY SalesYTD DESC;
 
 ## 📈 Dashboard Key Insights (Visualizations)
 <img width="898" height="501" alt="Screenshot 2026-09-29 235911" src="https://github.com/user-attachments/assets/3b7da0cc-d474-4e2f-87a8-521a5364a9d2" />
+<img width="941" height="563" alt="Screenshot 2026-09-23 103945" src="https://github.com/user-attachments/assets/62342beb-deda-4807-8e6f-f7b71cbb1a3e" />
 
 * **Geographical Sales Performance:** Segmented total revenue across global territories to isolate top-performing branches.
 * **Executive Top Performers:** Created a dedicated VIP dashboard section displaying the organization's top 3 sales drivers dynamically.
